@@ -22,6 +22,7 @@ Son apuntes a destacar que se puede encontrar u observar.
 <br>
 - Falta de validaciones tanto en los webservices, por ejemplo comprobar que el email tiene el formato correcto, que entren bien los datos etc.
 - Se ha creado el Login, pero no el logout ni refresh por falta de desconocimiento y de como aplicarlo
+- Falta utilizar/añadir los código de errores de las respuestas por parte de la App, para tener un mayor control de dichos errores y gestionarlos en la App 
 
 ## Capturas
 
