@@ -1,5 +1,5 @@
 # Rest API Eventos
-<h1 align="center">Eventos</h1>
+<h1 align="center">Rest API Eventos</h1>
 
 <p align="center">
 Webservices para ser consumidos por la App de [Eventos](https://github.com/guidogonzalez/Eventos) realizado en NodeJS y MongoDB.
