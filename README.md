@@ -15,6 +15,7 @@ Clonando o descargando este repositorio.
 
 - [Node.js](https://nodejs.org/es/)
 - [MongoDB](https://www.mongodb.com/es)
+- Para probar los endpoints la URL base es: https://restapieventos.herokuapp.com/
 
 ## A destacar
 
