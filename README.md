@@ -1,8 +1,7 @@
 # Rest API Eventos
-<h1 align="center">Rest API Eventos</h1>
 
 <p align="center">
-Webservices para ser consumidos por la App de [Eventos](https://github.com/guidogonzalez/Eventos) realizado en NodeJS y MongoDB.
+Webservices para ser consumidos por la App de Eventos https://github.com/guidogonzalez/Eventos realizado en NodeJS y MongoDB.
 <br>
 He subido la API a Heroku y MongoDB Cloud para la bdd. He optado por Node.js y MongoDB por que jamás había creado una API con estas herramientas y además quería probarlo por que me han hablado bien y de que era fácil de crear.
 </p>
