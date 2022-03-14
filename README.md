@@ -16,7 +16,7 @@ Clonando o descargando este repositorio.
 - [Node.js](https://nodejs.org/es/)
 - [MongoDB](https://www.mongodb.com/es)
 - Para probar los endpoints la URL base es: https://restapieventos.herokuapp.com/api/
-- Documentación API [Swagger]https://app.swaggerhub.com/apis/guidogonzalez/restapieventos/1.0.2
+- Documentación API [Swagger](https://app.swaggerhub.com/apis/guidogonzalez/restapieventos/1.0.2)
 
 ## A destacar
 
